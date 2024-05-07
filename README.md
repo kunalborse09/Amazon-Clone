@@ -4,21 +4,31 @@
 
  A responsive Amazon clone project built with HTML, CSS. 
 
-# Features 
+## Table of Contents
++ [Description](https://github.com/kunalborse09/Amazon-Clone)
++ [Features]
++ [Screenshots]
++ [Usage]
++ [Installation]
++ [Contributing]
++ [License]
++ [Contact]
+
+## Features 
  + Responsive design for seamless usage on various devices.
  + Navbar with search functionality and user account options.
  + Product listing with pricing and ratings.
  + Cart functionality to add and remove items.
  + Checkout process simulation.
 
-# Usage
+## Usage
  + Clone or download the repository to your local machine.
  + Open index.html in a web browser.
 
-# Installation
+## Installation
  There is no installation required for the Amazon clone project. Simply open the `index.html` file in any modern web browser to start using it.
 
-# Contributing
+## Contributing
 Contributions to the Amazon clone project are welcome! To contribute:
 1. Fork the repository.
 2. Create a new branch for your feature.
@@ -26,9 +36,9 @@ Contributions to the Amazon clone project are welcome! To contribute:
 4. Push to the branch.
 5. Create a new Pull Request.
 
-# License
+## License
 This project is licensed under the MIT License.
 
-# Contact
-**For any questions, feedback, or support requests, feel free to contact us at kp563566@gmail.com
+## Contact
+** For any questions, feedback, or support requests, feel free to contact us at kp563566@gmail.com
 Experience the e-commerce journey with the Amazon Clone project. Explore products, simulate purchases, and enhance your web development skills.
