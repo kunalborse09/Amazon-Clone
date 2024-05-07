@@ -24,7 +24,6 @@ The Amazon Clone project is a reimagining of the popular e-commerce platform Ama
  + Cart functionality to add and remove items.
  + Checkout process simulation.
 
-# Screenshots <a name="screenshots"></a>
 
 ## Usage <a name="usage"></a>
  + Clone or download the repository to your local machine.
